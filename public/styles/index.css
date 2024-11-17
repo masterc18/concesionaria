@@ -1,7 +1,8 @@
 :root{
-    
+    --primary_color:rgb(29, 47, 176);
+    --bg_color:rgb(229, 229, 229);
 }
 
 body {
-    background-color: rgb(229, 229, 229);
+    background-color: var(--bg_color);
 }
